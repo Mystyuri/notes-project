@@ -1,0 +1,11 @@
+{
+  "name": "notes-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd backend && npm run dev"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  },
+  "packageManager": "pnpm@10.12.4"
+}
